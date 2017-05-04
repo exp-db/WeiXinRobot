@@ -28,7 +28,8 @@
 
 没事刷刷笑话的小伙伴可以直接加微信好友。
 
-![](http://7xku36.com1.z0.glb.clouddn.com/wxrobotwx.JPG)
+
+ <img src="http://7xku36.com1.z0.glb.clouddn.com/wxrobotwx.JPG" width = "300" height = "500" />
 
 ## 截屏效果
 
@@ -43,7 +44,7 @@
 
 ## 感谢
 
-[littlecodersh 大大的 ItChat](https://github.com/littlecodersh/ItChat ) 确实省了不少事
+[littlecodersh 大大的 ItChat](https://github.com/littlecodersh/ItChat ) 确实很牛~
 
 
 
