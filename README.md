@@ -34,7 +34,7 @@
 ## 截屏效果
 
 
- <img src="http://7xku36.com1.z0.glb.clouddn.com/wxrobotjoke2.JPG" width = "300" height = "500" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://7xku36.com1.z0.glb.clouddn.com/wxrobotjoke1.PNG" width = "300" height = "500"/>
+ <img src="http://7xku36.com1.z0.glb.clouddn.com/wxrobotjoke2.JPG" width = "300"  />&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://7xku36.com1.z0.glb.clouddn.com/wxrobotjoke1.PNG" width = "300" />
 
 ## TODO
 
