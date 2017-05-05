@@ -24,12 +24,7 @@
 
 随后随意发送任意文字都可以得到一个不重复的小笑话。
 
-## 试一试
 
-没事刷刷笑话的小伙伴可以直接加微信好友。
-
-
- <img src="http://7xku36.com1.z0.glb.clouddn.com/wxrobotwx.JPG" width = "300" height = "450" />
 
 ## 截屏效果
 
